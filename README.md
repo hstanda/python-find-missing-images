@@ -2,4 +2,4 @@
 
 - Takes a URL as a parameter
 - Visit one URL only once
-- add the missing images URLs to a text file
+- add the missing images URLs to a text file.
